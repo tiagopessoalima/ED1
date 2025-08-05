@@ -1,4 +1,4 @@
-<img width="425" height="666" alt="image" src="https://github.com/user-attachments/assets/96b7a982-28b5-41dd-928d-3948fb5bf2c5" /><img width="425" height="666" alt="image" src="https://github.com/user-attachments/assets/436bf725-c86e-4006-b0f9-40ac6c673669" /><img width="425" height="666" alt="image" src="https://github.com/user-attachments/assets/011d4cab-3cd2-404f-b10c-267ffb94ca58" /># Estrutura de Dados 1
+# Estrutura de Dados 1
 
 Este repositório contém materiais, códigos e projetos desenvolvidos na disciplina de Estrutura de Dados 1.
 
