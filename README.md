@@ -9,7 +9,7 @@ Capacitar os alunos a compreender, projetar e implementar algoritmos e estrutura
 **Habilidades Desenvolvidas:**
 
 - Análise de algoritmos e avaliação de desempenho (Notação Big O, análise de casos);
-- Implementação e comparação de algoritmos de ordenação (Selection, Insertion, Bubble, Merge e Quick Sort);
+- Implementação e comparação de algoritmos de ordenação (*Selection*, *Insertion*, *Bubble*, *Merge* e *Quick*);
 - Construção e manipulação de estruturas de dados lineares (listas simplesmente encadeadas, duplamente encadeadas, circulares, pilhas, filas e deques);
 - Aplicação de estruturas de dados na resolução de problemas computacionais básicos.
 
@@ -29,7 +29,7 @@ A disciplina é dividida em 20 semanas, com aulas semanais, distribuídas confor
 | **1** | **Complexidade Algorítmica** <br> Introdução à análise de algoritmos, notação Big O, e medição de tempo e espaço para avaliar a eficiência de soluções. | - Entender como medir a eficiência de um algoritmo.<br>- Aprender a notação Big O.<br>- Analisar casos de melhor, médio e pior cenário. | [Aula](Semana_01_(ED1).ipynb) <br> [Exercícios](Semana_01_(ED1).pdf) |
 | **2** | **Bubble Sort** <br> Algoritmo simples que compara pares adjacentes e os troca de lugar se estiverem na ordem errada. | - Implementar a lógica do Bubble Sort.<br>- Analisar sua complexidade e ineficiência em grandes volumes de dados.<br>- Discutir otimizações como o "short-circuit". | [Aula](Semana_02_(ED1).ipynb) <br> Exercícios |
 | **3** | **Insertion Sort** <br> Análise do algoritmo de ordenação por inserção, eficiente para conjuntos de dados pequenos ou parcialmente ordenados. | - Implementar o Insertion Sort.<br>- Comparar seu desempenho com o Bubble Sort.<br>- Entender seus casos de uso ideais. | [Aula](Semana_03_(ED1).ipynb) <br> Exercícios |
-| **4** | **Selection Sort** <br> Algoritmo que busca repetidamente o menor elemento e o posiciona corretamente. | - Compreender o funcionamento do Selection Sort.<br>- Implementar o algoritmo.<br>- Analisar sua complexidade de tempo O(n²). | [Aula](Semana_02_(ED1).ipynb)  <br> Exercícios |
+| **4** | **Selection Sort** <br> Algoritmo que busca repetidamente o menor elemento e o posiciona corretamente. | - Compreender o funcionamento do Selection Sort.<br>- Implementar o algoritmo.<br>- Analisar sua complexidade de tempo O(n²). | [Aula](Semana_04_(ED1).ipynb)  <br> Exercícios |
 | **5** | **Merge Sort** <br> Apresentação do paradigma "dividir para conquistar" com o Merge Sort, um algoritmo de ordenação recursivo e eficiente. | - Entender a lógica de divisão, conquista e combinação.<br>- Implementar o Merge Sort e analisar sua complexidade O(n log n).<br>- Comparar seu uso de memória com outros métodos. | [Aula](Semana_05_(ED1).ipynb) <br> Exercícios |
 | **6** | **Quick Sort** <br> Estudo do Quick Sort, outro algoritmo de "dividir para conquistar" que se destaca pela sua velocidade na prática. | - Compreender a estratégia de particionamento e a escolha do pivô.<br>- Implementar o Quick Sort.<br>- Analisar seu desempenho no caso médio e pior caso. | [Aula](Semana_06_(ED1).ipynb) <br> Exercícios |
 | **7** | **Revisão (Semanas 1–6)** <br> Recapitulação dos conceitos de complexidade e dos algoritmos de ordenação estudados, com resolução de exercícios. | - Consolidar o conhecimento sobre análise de complexidade.<br>- Reforçar as diferenças e características de cada algoritmo de ordenação. | [Material de Revisão]() |
