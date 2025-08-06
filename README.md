@@ -10,7 +10,7 @@ Capacitar os alunos a compreender, projetar e implementar algoritmos e estrutura
 
 - Análise de algoritmos e avaliação de desempenho (Notação Big O, análise de casos);
 - Implementação e comparação de algoritmos de ordenação (*Selection*, *Insertion*, *Bubble*, *Merge* e *Quick*);
-- Construção e manipulação de estruturas de dados lineares (listas simplesmente encadeadas, duplamente encadeadas, circulares, pilhas, filas e deques);
+- Construção e manipulação de estruturas de dados lineares (listas encadeadas, pilhas, filas e deques);
 - Aplicação de estruturas de dados na resolução de problemas computacionais básicos.
 
 ## 📚 Metodologia
@@ -26,7 +26,7 @@ A disciplina é dividida em 20 semanas, com aulas semanais, distribuídas confor
 
 | Semana | Tópico & Descrição | Objetivos | Material de Apoio |
 | :----: | ------------------ | --------- | ----------------- |
-| **1** | **Complexidade Algorítmica** <br> Introdução à análise de algoritmos, notação Big O, e medição de tempo e espaço para avaliar a eficiência de soluções. | - Entender como medir a eficiência de um algoritmo.<br>- Aprender a notação Big O.<br>- Analisar casos de melhor, médio e pior cenário. | [Aula](Semana_01_(ED1).ipynb) <br> [Exercícios](Semana_01_(ED1).pdf) |
+| **1** | **Complexidade Algorítmica** <br> Introdução à análise de algoritmos, notação Big O, e medição de tempo e espaço para avaliar a eficiência de soluções. | - Entender o que é a Notação Big O e por que ela é importante para medir a eficiência de um código; <br> - Identificar as complexidades mais comuns: Constante O(1), Logarítmica O(log n), Linear O(n) e Quadrática O(n²); <br> - Analisar algoritmos simples para determinar qual dessas classificações de eficiência eles possuem. | [Aula](Semana_01_(ED1).ipynb) <br> [Exercícios](Semana_01_(ED1).pdf) |
 | **2** | **Bubble Sort** <br> Algoritmo simples que compara pares adjacentes e os troca de lugar se estiverem na ordem errada. | - Implementar a lógica do Bubble Sort.<br>- Analisar sua complexidade e ineficiência em grandes volumes de dados.<br>- Discutir otimizações como o "short-circuit". | [Aula](Semana_02_(ED1).ipynb) <br> Exercícios |
 | **3** | **Insertion Sort** <br> Análise do algoritmo de ordenação por inserção, eficiente para conjuntos de dados pequenos ou parcialmente ordenados. | - Implementar o Insertion Sort.<br>- Comparar seu desempenho com o Bubble Sort.<br>- Entender seus casos de uso ideais. | [Aula](Semana_03_(ED1).ipynb) <br> Exercícios |
 | **4** | **Selection Sort** <br> Algoritmo que busca repetidamente o menor elemento e o posiciona corretamente. | - Compreender o funcionamento do Selection Sort.<br>- Implementar o algoritmo.<br>- Analisar sua complexidade de tempo O(n²). | [Aula](Semana_04_(ED1).ipynb)  <br> Exercícios |
